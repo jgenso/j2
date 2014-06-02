@@ -1,3 +1,4 @@
+template_url:  https://github.com/jgenso/template-base
 ## Welcome
 
 Welcome to your new Telegram site.  Check out the [Getting Started](/getting_started) page
